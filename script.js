@@ -1,5 +1,5 @@
 const container = document.getElementById("container");
-const colors = ["#920391", "#7BB9F0", "#C91454", "#850F55", "#678A00", "#C7FF19", "#A1D600", "#60068A", "#A94FD1", "#FF3F1C", "#F527D3", "#DE1837", "#6715FA", "#FFE608", "#38FFF4", "#A7F222", "#2F51F5"]
+const colors = ["#12FF1B", "#DA36FF", "#FF1D08", "#ffff00", "#ff00cc", "#00ff00", "#ff5f1f", "#39ff14", "#32CD32", "#FF3F1C", "#83f52c", "#DE1837", "#f547c3", "#FFE608", "#dafa33", "#A7F222", "#2F51F5"]
 const squares = 500;
 
 for(let i = 0; i < squares; i++) {
